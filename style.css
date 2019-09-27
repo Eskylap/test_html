@@ -1,0 +1,33 @@
+table {
+    border-collapse: collapse;
+}
+.f2 {
+    border-color: brown brown brown brown;
+    text-align: center;
+}
+td {
+    list-style-type: none;
+
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.f1 {
+    background-color: green;
+    border-color: green green green green;
+    color: white;
+}
+.logotip {
+    background-color: #FF8C00;
+}
+body {
+    background-color: #FFFFE0;
+}
+.h6 {
+    margin-top: 16px;
+}
+#j7 {
+    background-color: #FF8C00;
+    color: white;
+}
